@@ -14,10 +14,10 @@ BizCardX is a user-friendly tool for extracting information from business cards.
 
 Libraries/Modules
 
-Pandas - (To Create a DataFrame with the scraped data)
-mysql.connector - (To store and retrieve the data)
-Streamlit - (To Create Graphical user Interface)
-EasyOCR - (To extract text from images)
+1. Pandas - (To Create a DataFrame with the scraped data)
+2. mysql.connector - (To store and retrieve the data)
+3. Streamlit - (To Create Graphical user Interface)
+4. EasyOCR - (To extract text from images)
 
 For executing steps
 
